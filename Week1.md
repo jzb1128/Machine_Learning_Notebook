@@ -38,4 +38,4 @@
 1. 模型和代价函数（Model and Cost funcion）
    1.1 模型表达（Model Representation）
    术语说明：
-   > X^(i)
+   > X<sup>(i)</sup>
