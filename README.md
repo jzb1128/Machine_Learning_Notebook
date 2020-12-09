@@ -4,4 +4,4 @@
 
 | Project | Version | Article |
 |:-------:|:-------:|:------|
-|机器学习|Andrew Ng Standford University|[目录]
+|机器学习|Andrew Ng Standford University|[目录](https://github.com/jzb1128/Machine_Learning_Notebook/blob/main/contents.md)<br>--------------------------------------------<br>|
