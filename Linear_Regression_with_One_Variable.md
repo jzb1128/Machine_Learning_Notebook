@@ -15,8 +15,13 @@
 预测的目标变量是连续数值，比如房价，称为回归（regression）问题。预测的目标变量是有限个离散量，称为归类（classification）问题
 
 2. 代价函数  
-通过计算假设函数输出量和实际输出的平均误差，使用代价函数来**衡量**假设函数。  
+使用代价函数来**衡量**假设函数性能，通过计算假设函数输出量和实际输出的平均误差来进行评估，
 均方根形式的误差函数
 <p align='center'>
 <img src='https://github.com/jzb1128/Machine_Learning_Notebook/blob/main/image/Cost%20Function.png'>
+</p>
+
+以线性回归为例，如何找到合适的 Theta_0和Theta_1，使得Cost Function最小化，是我们要解决的问题。
+<p align='center'>
+<img src='https://github.com/jzb1128/Machine_Learning_Notebook/blob/main/image/Cost%20Function%20Example.png'>
 </p>
