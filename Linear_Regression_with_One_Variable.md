@@ -29,7 +29,6 @@
 3. 梯度下降  
 改变变量Theta_0和Theta_1，寻找J(Theta_0，Theta_1)的最小值。  
 比喻为下山，站在山上的某一点，逐步的往下走，直到找到局部的最小值点。  
-下山的速率由学习速率参数Alpha决定。速率小意味着收敛速度慢，速率大有可能难以收敛。
 
 <p align='center'>
 <img src='https://github.com/jzb1128/Machine_Learning_Notebook/blob/main/image/Gradient%20Descent.png'>
@@ -39,9 +38,18 @@
 <img src='https://github.com/jzb1128/Machine_Learning_Notebook/blob/main/image/Gradient%20Descent2.png'>
 </p>
 
-以Theta_1为例子，不论初始值是什么，最终都可以收敛（与最小值的位置不同，斜率不同
+以Theta_1为例子，不论初始值在什么位置，最终都可以收敛（与最小值的相对位置不同，斜率的正负也不同）  
 <p align='center'>
 <img src='https://github.com/jzb1128/Machine_Learning_Notebook/blob/main/image/Gradient%20Descent%20Slop.png'>
 </p>
 
+下山的速率由学习速率参数Alpha决定。速率小意味着收敛速度慢，速率大有可能难以收敛。
+<p align='center'>
+<img https://github.com/jzb1128/Machine_Learning_Notebook/blob/main/image/learning%20rate.png'>
+</p>
+
+随着Theta值逐渐靠近最小点，斜率变小，步进也随之变小。  
+<p align='center'>
+<img https://github.com/jzb1128/Machine_Learning_Notebook/blob/main/image/learning%20rate%20small%20step.png'>
+</p>
 
