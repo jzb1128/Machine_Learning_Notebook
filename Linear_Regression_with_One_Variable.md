@@ -25,3 +25,12 @@
 <p align='center'>
 <img src='https://github.com/jzb1128/Machine_Learning_Notebook/blob/main/image/Cost%20Function%20Example.png'>
 </p>
+
+3. 梯度下降  
+改变变量Theta_0和Theta_1，寻找J(Theta_0，Theta_1)的最小值。  
+比喻为下山，站在山上的某一点，逐步的往下走，直到找到局部的最小值点。  
+下山的速率由学习速率参数Alpha决定。
+
+<p align='center'>
+<img src='https://github.com/jzb1128/Machine_Learning_Notebook/blob/main/image/Gradient%20Descent.png'>
+</p>
