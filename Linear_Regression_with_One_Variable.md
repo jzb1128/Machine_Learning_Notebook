@@ -55,10 +55,11 @@
 ** 梯度下降与求导数，导数为什么是下山最快方向，没有做过多的说明**
 
 ## 4. 梯度下降与线性回归  
-** 线性回归与梯度下降的结合，求偏导数，同时更新赋值***
+**线性回归与梯度下降的结合**
 <p align='center'>
 <img src='https://github.com/jzb1128/Machine_Learning_Notebook/blob/main/image/Gradient_descent_for_Linear_regression.png'>
 </p>
+**求偏导数，同时更新赋值***
 <p align='center'>
 <img src='https://github.com/jzb1128/Machine_Learning_Notebook/blob/main/image/Gradient_descent_Algorithm.png'>
 </p>
