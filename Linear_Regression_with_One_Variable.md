@@ -35,7 +35,13 @@
 <img src='https://github.com/jzb1128/Machine_Learning_Notebook/blob/main/image/Gradient%20Descent.png'>
 </p>
 
-以Theta_1为例子，不论初始值是什么，最终都可以收敛（与最小值的位置不同，斜率不同
 <p align='center'>
 <img src='https://github.com/jzb1128/Machine_Learning_Notebook/blob/main/image/Gradient%20Descent2.png'>
 </p>
+
+以Theta_1为例子，不论初始值是什么，最终都可以收敛（与最小值的位置不同，斜率不同
+<p align='center'>
+<img src='https://github.com/jzb1128/Machine_Learning_Notebook/blob/main/image/Gradient%20Descent%20Slop.png'>
+</p>
+
+
