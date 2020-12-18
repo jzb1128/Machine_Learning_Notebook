@@ -52,7 +52,7 @@
 <p align='center'>
 <img src='https://github.com/jzb1128/Machine_Learning_Notebook/blob/main/image/learning%20rate%20small%20step.png'>
 </p>
-** 梯度下降与求导数，导数为什么是下山最快方向，没有做过多的说明**
+**梯度下降与求导数，导数为什么是下山最快方向，没有做过多的说明 **
 
 ## 4. 梯度下降与线性回归  
 **线性回归与梯度下降的结合**
