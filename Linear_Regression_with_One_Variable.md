@@ -59,7 +59,7 @@
 <p align='center'>
 <img src='https://github.com/jzb1128/Machine_Learning_Notebook/blob/main/image/Gradient_descent_for_Linear_regression.png'>
 </p>
-**求偏导数，同时更新赋值***
+**求偏导数，同时更新赋值**
 <p align='center'>
 <img src='https://github.com/jzb1128/Machine_Learning_Notebook/blob/main/image/Gradient_descent_Algorithm.png'>
 </p>
